@@ -9,3 +9,4 @@ export interface InfoPagina {
   tumblr?: string;
   equipo_trabajo?: any[];
 }
+
